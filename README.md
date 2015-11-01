@@ -1,4 +1,12 @@
 # tikas
+Hei, ohjaaja! :)
+Tein nämä kaksi ylintä, mutta en osannut tehdä kolmatta.
+    Ota PHP-tuki käyttöön
+    Ota PostgreSQL-tietokantapalvelin käyttöön
+    Luo SSH-avain
+
+
+***
 Tietokantasovelluksen harjoitustyö
 
 Aihevalinta: Muistilista 	Helppo 	4 tai 5
