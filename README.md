@@ -1,10 +1,11 @@
 # tikas
 Hei, ohjaaja! :)
-Tein nämä kaksi ylintä, mutta en osannut tehdä kolmatta.
+Tein nämä kaksi ensimmäistä, mutta en osannut tehdä kolmatta:
     Ota PHP-tuki käyttöön
     Ota PostgreSQL-tietokantapalvelin käyttöön
     Luo SSH-avain
 
+Enkä myöskään saanut nettikäyttöliittymää toimimaan, sivu ei näy.
 
 ***
 Tietokantasovelluksen harjoitustyö
