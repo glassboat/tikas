@@ -1,0 +1,9 @@
+Johdanto
+
+"Muistilista"-ohjelma on järjestelmä työtehtävien hallintaan. Tarkoitus on helpottaa käyttäjän arkea. Työ toteutetaan laitoksen users-palvelimella ja php:llä. Ohjelmaa käytetään nettiselaimen kautta. 
+
+
+Käyttötapaukset
+
+Käyttäjän on kirjauduttava ohjelmaan voidakseen käyttää Muistilistaa. Ohjelmalla voi olla useita käyttäjiä. Heillä kaikilla on oma käyttäjätunnus ja salasana. Käyttäjä kirjoittaa haluamansa työtehtävät ohjelmaan ja valitsee niille annetusta listasta tärkeysasteen. Käyttäjä voi listata tehtävänsä ja tehtävät ovat listassa järjestuksessä tärkeysasteen mukaan. Hän voi valita listasta tietyn tehtävän ja editoida sen kuvausta ja/tai sen tärkeysjärjestystä. Hän voi merkitä tehtävän suoritetuksi ja hän voi poistaa tehtävän tehtävälistasta. 
+
